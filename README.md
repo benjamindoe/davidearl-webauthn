@@ -67,3 +67,4 @@ add an index.php as follows, you can run it at the top level as e.g.
 `https://example.com` (use your domain name, obviously).
 
 `        <?php chdir('example'); include_once('index.php');`
+meh.
